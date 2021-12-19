@@ -1,0 +1,41 @@
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\bin\Debug\FaceRecoginazition.exe.config
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\bin\Debug\FaceRecoginazition.exe
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\bin\Debug\FaceRecoginazition.pdb
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.csprojResolveAssemblyReference.cache
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Form1.resources
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Properties.Resources.resources
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.csproj.GenerateResource.Cache
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.exe
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.pdb
+c:\users\anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Make_Attendance.resources
+C:\Users\Anonymous\documents\visual studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.contacts.resources
+C:\Users\Anonymous\Documents\Visual Studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\bin\Debug\Database1.mdf
+C:\Users\Anonymous\Documents\Visual Studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\bin\Debug\Database1_log.ldf
+C:\Users\Anonymous\Documents\Visual Studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Login.resources
+C:\Users\Anonymous\Documents\Visual Studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.StudentMain.resources
+C:\Users\Anonymous\Documents\Visual Studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.TeacherMain.resources
+C:\Users\Anonymous\Documents\Visual Studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.View_Record.resources
+C:\Users\Anonymous\Documents\Visual Studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Delete.resources
+C:\Users\Anonymous\Documents\Visual Studio 2012\Projects\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.EditRecord.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\bin\Debug\Database1.mdf
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\bin\Debug\Database1_log.ldf
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\bin\Debug\FaceRecoginazition.exe.config
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\bin\Debug\FaceRecoginazition.exe
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\bin\Debug\FaceRecoginazition.pdb
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.csprojAssemblyReference.cache
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.contacts.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Delete.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.EditRecord.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Form1.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Login.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Make_Attendance.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.Properties.Resources.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.StudentMain.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.TeacherMain.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.View_Record.resources
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.csproj.GenerateResource.cache
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.csproj.CoreCompileInputs.cache
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.csproj.CopyComplete
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.exe
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\obj\Debug\FaceRecoginazition.pdb
+C:\Users\gsingian\Downloads\startup\FaceRecoginazition\FaceRecoginazition\bin\Debug\Bunifu_UI_v1.5.3.dll
